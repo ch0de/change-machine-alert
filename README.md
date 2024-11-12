@@ -13,6 +13,7 @@ electrical wire https://a.co/d/6snHIRc
 
 Wifi at your location.
 
+
 step 1 
 Figure Out What Type of Out of Order Light You Have
 turn on the Out of order light and Use a MultiMeter and test the voltage of your out of order light. also which wire is + and Which is Ground.
@@ -53,6 +54,10 @@ line 25 you can enter as many email addresses as you like, Separated by a comma 
 
 if you want it to text your phone also you will have to find your Cell phone carriers email to text address. Example .For at&t it is phonenumber@txt.att.net
 
-
-
 This code also is set to check each Pin every 5 seconds, If a pin is triggered, an alert is sent, and that pin is ignored for 1 hour, after 1 hour it will send another email and ignore for another hour until the Out of order is reset.
+
+
+Step 5: Finishup
+Find power for the pico and tuck everything away. in my machines there are 120v outlets, I just use a power cube and use one of those.
+
+the picos I cover with electrical tape but you can also buy a case on amazon. the 120v relays are sealed but the 24 relays I buy i just wrap in electrical tape.
