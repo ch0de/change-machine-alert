@@ -42,7 +42,7 @@ First update the firmware of the Pi Pico w https://a.co/d/6snHIRc
 
 Download and install Thonny https://thonny.org/
 
-using thonny (ask Chatgpt) Upload umail.py to the Pico
+using thonny (ask Chatgpt) Upload umail.py to the Pico Install umail.py https://github.com/shawwwn/uMail/blob/master/umail.py
 
 open main.py
 
